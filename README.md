@@ -1,18 +1,42 @@
-### Hi there 👋, Зови меня П.
-#### Я web-разработчик
+# Привет 👋, Зови меня П.
+### 💻 Я web-разработчик
 ![Я web-разработчик](https://xrule.ru/wp-content/uploads/2023/09/0f830c4a-2057-4a78-b6f5-f248a84d9c9a-1536x614.jpg)
 
-Всегда знал, что буду программистом! Ещё в детстве определился с профессией и с тех пор иду к своей цели, не взирая на трудности!
+## ✏️ О себе
+Серьёзно занимаюсь программированием (в разных направлениях) с 2022 и с тех пор иду к своей цели, не взирая на трудности! Не боюсь сложных задач, люблю узнавать что-нибудь новое! Весёлый, позитивный молодой человек. Всегда рад новым предложениям.
 
-Возраст: 23
-Образование: Высшее (ИЭФ "Синергия" --- Информационные системы и технологии)
+## 📜 Сведения
+- 📆 Возраст: 23
+- 💼 Образование: Высшее (ИЭФ "Синергия" --- Информационные системы и технологии)
+- 🌍 Место жительства: Россия, г. Брянск
 
 
-Skills: JS / HTML / CSS / Python / Django
+## 🧰 Навыки 
+- JS
+- HTML
+- CSS
+- Python
+- Django
 
+## 🖥️ Пройденныые курсы
 
+### Курс по web-дизайну
+![Курс по web-дизайну](https://github.com/justP-official/justP-official/blob/dedf8f5d95c6fe13c2ab23f21fc7e5368b0f2b70/web-design.png)
+
+### Курс по Python
+![Курс по Python](https://github.com/justP-official/justP-official/blob/270cdb30f6c8a3de892d84950e12a6c215796bf8/selfedu_dobriy_python.png)
+
+[Ссылка на репозиторий](https://github.com/justP-official/selfedu_dobriy_python_learning)
+
+### Курс по Python ООП
+![Курс по Python ООП](https://github.com/justP-official/justP-official/blob/270cdb30f6c8a3de892d84950e12a6c215796bf8/selfedu_dobriy_python_oop.png)
+
+[Ссылка на репозиторий](https://github.com/justP-official/selfedu_oop_learning)
+
+### Контакты
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/justP-official)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/p__just__p//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/just_p_official)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/id70726048)  
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=justP-official)](https://github.com/ryo-ma/github-profile-trophy)
 
