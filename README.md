@@ -17,6 +17,7 @@
 - CSS (в том числе: flex, grid, адаптивная вёрстка, bootstrap5)
 - Python
 - Django
+- SQL
 
 ## 🖥️ Пройденныые курсы
 
@@ -32,6 +33,10 @@
 ![Курс по Python ООП](selfedu_dobriy_python_oop.png)
 
 [Ссылка на репозиторий](https://github.com/justP-official/selfedu_oop_learning)
+
+### Курс по SQL
+
+![Курс по SQL](SQL.png)
 
 ### Контакты
 
